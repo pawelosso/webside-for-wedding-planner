@@ -1,4 +1,4 @@
-## Webside for football trainer
+## Webside for wedding planner
 This is webside for my indyvidual client, who is a wedding planner.
 <br>
 ### Go live: https://razemlepiej.com.pl
