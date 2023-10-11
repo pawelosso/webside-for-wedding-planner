@@ -1,7 +1,7 @@
 ## Webside for football trainer
 This is webside for my indyvidual client, who is a wedding planner.
 <br>
-### Go live: razemlepiej.com.pl
+### Go live: https://razemlepiej.com.pl
 
 <strong>In this project I used:</strong>
 <br><br>
